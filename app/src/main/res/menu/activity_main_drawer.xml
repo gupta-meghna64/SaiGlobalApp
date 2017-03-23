@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_firstpage"
+
+            android:title="Shirdi Sai Global Foundation" />
+
+        <item
+            android:id="@+id/nav_menu1"
+
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_menu2"
+
+            android:title="Shri Guru Bhagwat"/>
+        <item
+            android:id="@+id/nav_menu3"
+
+            android:title="Dr. C.B. Satpathy" />
+        <item
+            android:id="@+id/nav_menu4"
+
+            android:title="Get Started" />
+        <item
+            android:id="@+id/nav_menu5"
+
+            android:title="Register" />
+
+
+    </group>
+
+
+
+</menu>

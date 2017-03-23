@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:background="#fff6e7"
+
+        android:layout_height="fill_parent">
+
+
+        <View
+            android:layout_width="250dp"
+            android:layout_height="1dp"
+            android:background="#8E8E8E"
+            android:gravity="center"
+            android:layout_below="@+id/textView3"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:text="C-209, 1st Floor, Sushant Lok, Phase-1, Gurgaon 122001, Haryana
+            info@shirdisaiglobalfoundation.org"
+            android:layout_width="wrap_content"
+            android:textColor="#aa3619"
+            android:layout_height="67dp"
+            android:background="#ffe8c3"
+            android:id="@+id/textView4"
+            android:gravity="center"
+            android:textSize="12dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:text="D.R. C.B. SATPATHY"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center"
+            android:textColor="@color/maroon"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:id="@+id/textView3"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>

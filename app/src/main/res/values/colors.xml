@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#856A3F</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="maroon">#AA3619</color>
+    <color name="brown"> #7D4900  </color>
+    <color name="footer">#55FFD48E</color>
+    <color name="grey">#7A786D  </color>
+    <color name="lightbrown">#32FFD48E  </color>
+    <color name="peach">#FFD48E  </color>
+    <color name="darkmaroon">#DBB679</color>
+    <color name="background">#FFF6E7</color>
+
+</resources>
